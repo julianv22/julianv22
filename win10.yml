@@ -3,9 +3,9 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "10"
+      VERSION: "10l"
       CPU_CORES: "4"
-      RAM_SIZE: "8G"
+      RAM_SIZE: "12G"
       USERNAME: "Julian-V"
       PASSWORD: "123456"
     devices:
