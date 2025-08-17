@@ -18,6 +18,6 @@ services:
       - 3389:3389/tcp
       - 3389:3389/udp
     volumes:
-      - ./shares:/data
+      - ./shared:/data
     restart: always
     stop_grace_period: 2m
