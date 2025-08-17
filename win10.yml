@@ -3,7 +3,7 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "10l"
+      VERSION: "10"
       CPU_CORES: "4"
       RAM_SIZE: "12G"
       USERNAME: "Julian-V"
