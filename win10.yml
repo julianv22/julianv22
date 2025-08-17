@@ -7,7 +7,7 @@ services:
       USERNAME: "Julian-V"
       PASSWORD: "123456"
       RAM_SIZE: "4G"
-      CPU_CORES: "16"
+      CPU_CORES: "4"
       DISK_SIZE: "256G"
       DISK2_SIZE: "256G"
     devices:
